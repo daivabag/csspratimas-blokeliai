@@ -1,0 +1,52 @@
+div{
+    font-family: 'Dancing Script', cursive;
+    display: block inline;
+
+}
+
+.pirmas,header{
+background-color: burlywood;
+height: 100px;
+width 2000px;
+    margin: 5px;
+    text-align: center;
+}
+
+.antras,nav {
+    background-color: azure;
+    height: 395px;
+    width: 550px;
+    margin: 5px;
+    float: left;
+
+}
+
+.trecias, article {
+    background-color: antiquewhite;
+    height: 800px;
+    width: 1300px;
+    margin: 5px;
+    float: right;
+
+}
+
+.ketvirtas, ads {
+    background-color: bisque;
+    height: 395px;
+    width: 550px;
+    margin: 5px;
+    float: left;
+    text-align: center;
+
+}
+
+
+.penktas, footer {
+    background-color: blanchedalmond ;
+    height: 100px;
+    width: 1950px;
+    margin: 5px;
+   float: right;
+    text-align: center;
+
+}
